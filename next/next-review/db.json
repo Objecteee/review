@@ -1,0 +1,60 @@
+{ 
+    "users": [
+    {
+      "id": 1,
+      "name": "Alice Smith",
+      "username": "alice_smith",
+      "email": "alice.smith@example.com",
+      "avatar": "https://via.placeholder.com/150/FFC0CB/000000?text=Alice",
+      "gender": "Female",
+      "address": {
+        "city": "Springfield",
+        "country": "USA"
+      },
+      "phone": "+1 (217) 555-1234",
+      "skills": ["JavaScript", "Next.js"]
+    },
+    {
+      "id": 2,
+      "name": "Bob Johnson",
+      "username": "bob_johnson",
+      "email": "bob.johnson@example.com",
+      "avatar": "https://via.placeholder.com/150/87CEEB/000000?text=Bob",
+      "gender": "Male",
+      "address": {
+        "city": "Los Angeles",
+        "country": "USA"
+      },
+      "phone": "+1 (310) 555-5678",
+      "skills": ["Node.js", "SQL"]
+    },
+    {
+      "id": 3,
+      "name": "Charlie Brown",
+      "username": "charlie_brown",
+      "email": "charlie.brown@example.com",
+      "avatar": "https://via.placeholder.com/150/90EE90/000000?text=Charlie",
+      "gender": "Male",
+      "address": {
+        "city": "Chicago",
+        "country": "USA"
+      },
+      "phone": "+1 (312) 555-9012",
+      "skills": ["Vue.js", "Tailwind CSS"]
+    },
+    {
+      "id": 4,
+      "name": "Diana Wilson",
+      "username": "diana_wilson",
+      "email": "diana.wilson@example.com",
+      "avatar": "https://via.placeholder.com/150/FFD700/000000?text=Diana",
+      "gender": "Female",
+      "address": {
+        "city": "Seattle",
+        "country": "USA"
+      },
+      "phone": "+1 (206) 555-3456",
+      "skills": ["Product Management", "Agile"]
+    }
+  ]
+}
